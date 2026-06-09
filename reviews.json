@@ -10,6 +10,19 @@
     "status": "approved",
     "date": "6/9/2026",
     "approvedBy": "1386323702945288302",
+    "approvedAt": "2026-06-09T17:34:07.255Z"
+  },
+  {
+    "reviewId": "2733073a",
+    "name": "plugx.official",
+    "userId": "1386323702945288302",
+    "avatar": "https://cdn.discordapp.com/avatars/1386323702945288302/fce17409f3b240a9cda5d2f0f4139b5e.png?size=256",
+    "product": "Nitro-Pack V1",
+    "review": "test",
+    "stars": 5,
+    "status": "approved",
+    "date": "6/9/2026",
+    "approvedBy": "1386323702945288302",
     "approvedAt": "2026-06-09T17:34:03.832Z"
   },
   {
@@ -134,15 +147,6 @@
     "avatar": "https://cdn.discordapp.com/avatars/1386323702945288302/fce17409f3b240a9cda5d2f0f4139b5e.png?size=256",
     "product": "Test Product V1",
     "review": "TESTING BOYY",
-    "stars": 5,
-    "date": "6/9/2026"
-  },
-  {
-    "name": "plugx.official",
-    "userId": "1386323702945288302",
-    "avatar": "https://cdn.discordapp.com/avatars/1386323702945288302/fce17409f3b240a9cda5d2f0f4139b5e.png?size=256",
-    "product": "Gun Texture V1",
-    "review": "TESTING",
     "stars": 5,
     "date": "6/9/2026"
   }
