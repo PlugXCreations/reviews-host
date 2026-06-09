@@ -3,6 +3,15 @@
     "name": "plugx.official",
     "userId": "1386323702945288302",
     "avatar": "https://cdn.discordapp.com/avatars/1386323702945288302/fce17409f3b240a9cda5d2f0f4139b5e.png?size=256",
+    "product": "PD Pack V1",
+    "review": "testing",
+    "stars": 5,
+    "date": "6/9/2026"
+  },
+  {
+    "name": "plugx.official",
+    "userId": "1386323702945288302",
+    "avatar": "https://cdn.discordapp.com/avatars/1386323702945288302/fce17409f3b240a9cda5d2f0f4139b5e.png?size=256",
     "product": "testing",
     "review": "product type shit",
     "stars": 5,
@@ -115,13 +124,6 @@
     "name": "plugx.official",
     "avatar": "https://cdn.discordapp.com/avatars/1386323702945288302/abb15b62366b63088b98468d9a7374ba.png",
     "review": "test",
-    "stars": 1,
-    "date": "6/4/2026"
-  },
-  {
-    "name": "plugx.official",
-    "avatar": "https://cdn.discordapp.com/avatars/1386323702945288302/abb15b62366b63088b98468d9a7374ba.png",
-    "review": "AMAZING SUPPORT AND WEAPONS",
     "stars": 1,
     "date": "6/4/2026"
   }
