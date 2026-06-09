@@ -1,1 +1,15 @@
-[]
+[
+  {
+    "reviewId": "9ba312af",
+    "name": "tfapoptartsog",
+    "userId": "796255747926917160",
+    "avatar": "https://cdn.discordapp.com/avatars/796255747926917160/1f595605c7839a1e93e554c80c0283eb.png?size=256",
+    "product": "Gang Pack V1",
+    "review": "test1",
+    "stars": 5,
+    "status": "approved",
+    "date": "6/9/2026",
+    "approvedBy": "1386323702945288302",
+    "approvedAt": "2026-06-09T23:26:41.509Z"
+  }
+]
