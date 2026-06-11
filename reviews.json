@@ -1,1 +1,15 @@
-[]
+[
+  {
+    "reviewId": "1cf0aa57",
+    "name": "plugx.official",
+    "userId": "1386323702945288302",
+    "avatar": "https://cdn.discordapp.com/avatars/1386323702945288302/fce17409f3b240a9cda5d2f0f4139b5e.png?size=256",
+    "product": "Nitro-Pack V1",
+    "review": "test",
+    "stars": 5,
+    "status": "approved",
+    "date": "6/11/2026",
+    "approvedBy": "1386323702945288302",
+    "approvedAt": "2026-06-11T23:19:23.270Z"
+  }
+]
