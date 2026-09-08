@@ -1,5 +1,18 @@
 [
   {
+    "reviewId": "aade1b89",
+    "name": "diamond_h4",
+    "userId": "471721245868556298",
+    "avatar": "https://cdn.discordapp.com/avatars/471721245868556298/a_228c8ef27daa2e8b562dc284d6934d2e.gif?size=256",
+    "product": "Weather System V1",
+    "review": "Great system, user-friendly.",
+    "stars": 5,
+    "status": "approved",
+    "date": "9/8/2026",
+    "approvedBy": "1386323702945288302",
+    "approvedAt": "2026-09-08T19:11:52.423Z"
+  },
+  {
     "reviewId": "8c6537db",
     "name": "x4vi",
     "userId": "654035445339914252",
