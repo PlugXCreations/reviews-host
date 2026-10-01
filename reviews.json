@@ -1,5 +1,18 @@
 [
   {
+    "reviewId": "940da56e",
+    "name": "five.vo",
+    "userId": "1386323702945288302",
+    "avatar": "https://cdn.discordapp.com/avatars/1386323702945288302/50beb1ae8754615312b39796d59b6091.png?size=256",
+    "product": "Giveaway Creator V1",
+    "review": "TESTING THIS OUT!",
+    "stars": 5,
+    "status": "approved",
+    "date": "10/1/2026",
+    "approvedBy": "1386323702945288302",
+    "approvedAt": "2026-10-01T07:54:18.375Z"
+  },
+  {
     "reviewId": "954b251c",
     "name": "vexxscripts",
     "userId": "1546998614797320253",
